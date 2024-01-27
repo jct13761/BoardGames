@@ -5,4 +5,4 @@
 I'm deleting your shit boi
 
 
-Ouchie that hurt 
+Ouchie that Waas cazy that you just did that to me what the heck man like what 
