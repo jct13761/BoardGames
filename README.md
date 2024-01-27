@@ -5,4 +5,4 @@
 I'm deleting your shit boi
 
 
-Ouchie that hurt So much 
+Ouchie that hurt So much ok im gonna stop now
