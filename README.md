@@ -1,10 +1,9 @@
 # BoardGames
- Board game project with Meg and Gio 
+ Board game project with Meg and Gio
 
-Hi I'm so excited just to be here
-
-
-Ouchie that hurt So much ok im gonna stop now
-
-
-Ok fr this time im gonna stop
+To-Do:
+-   Download "Unity Hub"
+    o   Activate personal license
+    o   Install Unity Version 2019.4.18f1
+-   Install Unity extensions for VS Code
+-   Create gameplan for development 
