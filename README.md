@@ -1,8 +1,7 @@
 # BoardGames
  Board game project with Meg and Gio 
 
-
-I'm deleting your shit boi
+Hi I'm so excited just to be here
 
 
 Ouchie that hurt So much ok im gonna stop now
